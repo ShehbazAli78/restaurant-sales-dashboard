@@ -3,7 +3,9 @@
 End-to-end analytics project on 6,000 restaurant orders — from raw, messy
 data to a cleaned dataset, exploratory analysis, a Power BI report, and an
 interactive Streamlit dashboard.
+## 🚀 Live Dashboard
 
+[Click Here to View Live Dashboard](https://restaurant-sales-dashboard-av67g64wqlu94nxv3har5q.streamlit.app/)
 ## 🗂️ Project Structure
 
 ```
